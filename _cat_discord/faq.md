@@ -7,13 +7,13 @@ icon: discord-faq.svg
 sortinglabel: discord-l2
 ---
 
-## Questions relatives au Discord Insoumlis Locaux
+## Questions relatives au Discord Insoumis Locaux
 
-**Quels sont les liens entre ce Discord et le Discord Insoumis ?**
+**Quel est le lien entre ce Discord et le Discord Insoumis ?**
 Ce Discord a été créé à la suite de discussions au lendemain du 1ier tour de la Présidentielle 2017 sur le Discord Insoumis. De nombreuses personnes parmi le staff, les animateurs et les responsables projets du Discord Insoumis sont présents ici et participent au développement de cette plateforme dédiée aux actions locales de la France Insoumise.
 
 **Qui a créé ce Discord ?**
-le Discord « Les Insoumis Locaux » a été créé à l'initiative de @MrBrenan
+le Discord « Les Insoumis Locaux » a été créé à l'initiative de @MrBrenan.
 
 **C'est quoi un Animateur ?**
 Un Animateur a pour rôle d'animer et de modérer les salons de discussions vocaux et textuels du serveur, de répondre aux question des groupes d'appui ou des candidats aux élections législatives, d'accompagner au développement de projets, de soutenir les initiatives locales avec les référents Régions.
